@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\provaPaulo\provaPaulo\bin\Debug\netcoreapp3.0\provaPaulo.exe
+C:\Users\Aluno\source\repos\provaPaulo\provaPaulo\bin\Debug\netcoreapp3.0\provaPaulo.deps.json
+C:\Users\Aluno\source\repos\provaPaulo\provaPaulo\bin\Debug\netcoreapp3.0\provaPaulo.runtimeconfig.json
+C:\Users\Aluno\source\repos\provaPaulo\provaPaulo\bin\Debug\netcoreapp3.0\provaPaulo.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\provaPaulo\provaPaulo\bin\Debug\netcoreapp3.0\provaPaulo.dll
+C:\Users\Aluno\source\repos\provaPaulo\provaPaulo\bin\Debug\netcoreapp3.0\provaPaulo.pdb
+C:\Users\Aluno\source\repos\provaPaulo\provaPaulo\obj\Debug\netcoreapp3.0\provaPaulo.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\provaPaulo\provaPaulo\obj\Debug\netcoreapp3.0\provaPaulo.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\provaPaulo\provaPaulo\obj\Debug\netcoreapp3.0\provaPaulo.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\provaPaulo\provaPaulo\obj\Debug\netcoreapp3.0\provaPaulo.dll
+C:\Users\Aluno\source\repos\provaPaulo\provaPaulo\obj\Debug\netcoreapp3.0\provaPaulo.pdb
